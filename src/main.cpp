@@ -84,8 +84,6 @@ int main ()
 			world.AddEffector(pe);
 		}
 
-		
-
 		// DRAW
 		BeginDrawing();
 
